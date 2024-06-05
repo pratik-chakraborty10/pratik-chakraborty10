@@ -9,6 +9,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik-chakraborty10" alt="pratik-chakraborty10" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
+- [![GitHub followers](https://img.shields.io/github/followers/pratik-chakraborty10?style=social)](https://github.com/pratik-chakraborty10)
+
 
 - 💬 Ask me about **HTML5,CSS,TAILWIND,JavaScript,ReactJS,Node.JS,Express.js,MongoDB etc.**
 
